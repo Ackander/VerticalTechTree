@@ -1,5 +1,5 @@
-Ackander's Vertical TechTree
-v1.12.18.b
+﻿Ackander's Vertical TechTree
+v1.15.45.c.pre
 
 Installation directions:
 1. Start a new game, goto Research and Development Lab, select stock
@@ -9,8 +9,47 @@ Installation directions:
 
 You have now read me...   carry on.
 
-
 Updates:
+•v1.15.45.c - pre-Release c
+ December 3, 2013
+  - Added parts from the following mods into TechTree:
+6S Service Compartment Tubes
+Beastly Science  Pack
+Damned Robotics MOdular MANipulator
+Deep Space Mission Pack
+FTmN Atomic Rockets
+Historic American Pack
+Historic Soviet Pack
+L-Tech Scientific Stuff
+SpaceX Launch Pack
+Stockalike Double Nerva
+TAC Electrolyzer and Fuel Cell
+TAC Life Support Converter
+Tarsier Space Technology
+Tri-Hexagonal Structural Trusses
+Wayland's Emergancy Escape Pod "The Egg"
+Wayland's FL-1 Rover and Wheels
+Wayland's Freelander Pod
+Wayland's HyperRing
+Wayland's MechPod
+Wayland's Pegasus Px2
+Wayland's Port-o-Hatch
+Wayland's Space Eagle 1999 
+Wayland's WR1 Rapier and WV8 Air Scoop
+Wayland's WT-51 Transport
+Added projects concept, mods with projects:
+-B9 Aerospace
+-Tiberdyne Shuttle System
+-Wayland's Emergancy Escape Pod "The Egg"
+-Wayland's FL-1 Rover and Wheels
+-Wayland's MechPod
+-Wayland's Pegasus Px2
+-Wayland's Space Eagle 1999 
+-Wayland's WT-51 Transport
+-Historic American Pack
+-Historic Soviet Pack
+-SpaceX Launch Pack
+
 •v1.12.18.b - Release b
  December 3, 2013
   - Added parts from the following mods into TechTree:
