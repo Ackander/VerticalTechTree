@@ -10,7 +10,7 @@ Installation directions:
 You have now read me...   carry on.
 
 Updates:
-•v1.15.45.c - pre-Release c
+•v1.15.45.c.pre - pre-Release c
  December 3, 2013
   - Added parts from the following mods into TechTree:
 6S Service Compartment Tubes
