@@ -1,5 +1,5 @@
 ﻿Ackander's Vertical TechTree
-v1.15.45.c.pre
+v1.15.45.c 
 
 Installation directions:
 1. Start a new game, goto Research and Development Lab, select stock
@@ -10,7 +10,7 @@ Installation directions:
 You have now read me...   carry on.
 
 Updates:
-•v1.15.45.c.pre - pre-Release c
+•v1.15.45.c - Release c
  December 3, 2013
   - Added parts from the following mods into TechTree:
 6S Service Compartment Tubes
@@ -22,6 +22,7 @@ Historic American Pack
 Historic Soviet Pack
 L-Tech Scientific Stuff
 SpaceX Launch Pack
+Station Science
 Stockalike Double Nerva
 TAC Electrolyzer and Fuel Cell
 TAC Life Support Converter
@@ -49,6 +50,7 @@ Added projects concept, mods with projects:
 -Historic American Pack
 -Historic Soviet Pack
 -SpaceX Launch Pack
+-Novapunch Odin and Thor
 
 •v1.12.18.b - Release b
  December 3, 2013
