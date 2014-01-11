@@ -1,5 +1,5 @@
 ﻿Ackander's Vertical TechTree
-v1.15.45.c 
+v1.15.45.c.pre 01.10.14.19.06.-06
 
 Installation directions:
 1. Start a new game, goto Research and Development Lab, select stock
@@ -10,7 +10,7 @@ Installation directions:
 You have now read me...   carry on.
 
 Updates:
-•v1.15.45.c - Release c
+•v1.15.45.c - pre-Release c
  December 3, 2013
   - Added parts from the following mods into TechTree:
 6S Service Compartment Tubes
