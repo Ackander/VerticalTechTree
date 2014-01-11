@@ -1,17 +1,21 @@
 ﻿Ackander's Vertical TechTree
-v1.15.45.c.pre 01.10.14.22.16.-06
+v1.15.45.c
+
+Requires:
+TreeEdit
+OR
+TreeLoader
 
 Installation directions:
 1. Start a new game, goto Research and Development Lab, select stock
 2. Move tree.cfg to your game's save folder, right next to persistent.sfs
-3. Move AckandersVerticalTechTree.cfg to KSP's GameData folder
-4. Science
+3. Science
 
 You have now read me...   carry on.
 
 Updates:
-•v1.15.45.c - pre-Release c
- December 3, 2013
+•v1.15.45.c - Release c
+ January 11, 2014
   - Added parts from the following mods into TechTree:
 6S Service Compartment Tubes
 Beastly Science  Pack
