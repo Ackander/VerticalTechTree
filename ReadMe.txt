@@ -1,5 +1,5 @@
 ﻿Ackander's Vertical TechTree
-v1.15.45.c.pre 01.10.14.19.06.-06
+v1.15.45.c.pre 01.10.14.22.14.-06
 
 Installation directions:
 1. Start a new game, goto Research and Development Lab, select stock
