@@ -1,5 +1,5 @@
 Ackander's Vertical TechTree
-v1.15.45.c pre
+v1.15.45.c
 
 Requires:
 TreeEdit
